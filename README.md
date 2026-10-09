@@ -21,17 +21,80 @@ The experiment expects the existence of the folders moxingmodels and ontologies 
 	 - logs 
 * moxingmodels
 	- access.moxing.northwind.ston
+	- access.moxing.paper.ston
+	- catalog.java.ston
+	- catalog.springboot.java.ston
+	- java.moxing.Mybatis-PageHelper.ston
 	- java.moxing.argouml.ston
+	- java.moxing.git-commit-id-maven-plugin.ston
+	- java.moxing.java-faker.ston
+	- java.moxing.javacpp.ston
+	- java.moxing.joda-time.ston
+	- java.moxing.jvm-profiler.ston
+	- java.moxing.kuromoji.ston
+	- java.moxing.mahout.ston
+	- java.moxing.openmrs-core.ston
 	- java.moxing.petstore.ston
+	- java.moxing.reflectasm.ston
+	- java.moxing.spatial4j.ston
+	- java.moxing.sqlite-jdbc.ston
+	- java.moxing.streamex.ston
+	- java.moxing.webdrivermanager.ston
+	- paper.symbol.ston
+	- pharo.moxing.artefact.ston
+	- pharo.moxing.bloc.ston
+	- pharo.moxing.boardwalk.ston
+	- pharo.moxing.brick.ston
+	- pharo.moxing.buoy.ston
 	- pharo.moxing.calypso.ston
+	- pharo.moxing.chartjs.ston
+	- pharo.moxing.chrysal.ston
+	- pharo.moxing.citezen.ston
+	- pharo.moxing.collectionextensions.ston
+	- pharo.moxing.drtest.ston
+	- pharo.moxing.ethel.ston
+	- pharo.moxing.gitbridge.ston
+	- pharo.moxing.highchartsst.ston
 	- pharo.moxing.moose.ston
+	- pharo.moxing.renoirst.ston
+	- pharo.moxing.seaside.ston
 * ontologies
+	- access.ontology.egrc.ston
 	- access.ontology.epaie.ston
 	- access.ontology.northwind.ston
+	- java.ontology.Mybatis-PageHelper.ston
 	- java.ontology.argouml.ston
+	- java.ontology.git-commit-id-maven-plugin.ston
+	- java.ontology.java-faker.ston
+	- java.ontology.javacpp.ston
+	- java.ontology.joda-time.ston
+	- java.ontology.jvm-profiler.ston
+	- java.ontology.kuromoji.ston
+	- java.ontology.mahout.ston
+	- java.ontology.openmrs-core.ston
 	- java.ontology.petstore.ston
+	- java.ontology.reflectasm.ston
+	- java.ontology.spatial4j.ston
+	- java.ontology.sqlite-jdbc.ston
+	- java.ontology.streamex.ston
+	- java.ontology.webdrivermanager.ston
+	- pharo.ontology.artefact.ston
+	- pharo.ontology.bloc.ston
+	- pharo.ontology.boardwalk.ston
+	- pharo.ontology.brick.ston
+	- pharo.ontology.buoy.ston
 	- pharo.ontology.calypso.ston
+	- pharo.ontology.chartjs.ston
+	- pharo.ontology.chrysal.ston
+	- pharo.ontology.citezen.ston
+	- pharo.ontology.collectionextensions.ston
+	- pharo.ontology.drtest.ston
+	- pharo.ontology.ethel.ston
+	- pharo.ontology.gitbridge.ston
+	- pharo.ontology.highchartsst.ston
 	- pharo.ontology.moose.ston
+	- pharo.ontology.renoirst.ston
+	- pharo.ontology.seaside.ston
 * paper-experiment-files 
 
 ## Running the experiment
@@ -72,7 +135,7 @@ The transformations.xlsx, where we load the aggregation by type and organise it 
 
 
 ## Disclaimer
-We want to insist that the EPaie project mode is not shipped since it is a closed-source project. 
+We want to insist that the EPaie and eGRC project models are not shipped since both are closed-source. 
 The experiment is not identical to the one exposed in the article.
 
 
