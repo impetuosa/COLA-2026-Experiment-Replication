@@ -118,7 +118,7 @@ The script will start the Pharo image with the Pharo virtual machine executing a
 This file is programmed to execute the Pharo image with all the combinations of the six models and the six previously extracted ontologies. 
 For each experiment are going to export two files into the **logs** folder: one file with all the entities analysis and the other with all the relations.
 
-The last step in the script analyses all the generated files and aggregates all the data into a table.csv file that can be further opened with any spreadsheet program.
+The last two steps in the script analyses all the generated files and aggregates all the data into a table.csv and classToChange.csv files that can be further opened with any spreadsheet program.
 
 ### Browsing the source code
 Within the folder, Binaries execute **./pharo-ui Pharo.image**. This will open a Pharo image from the command line. 
